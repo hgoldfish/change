@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>winsys.dxg</file>
+        <file>winsys.dxb</file>
+    </qresource>
+</RCC>
